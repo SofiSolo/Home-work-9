@@ -8,7 +8,7 @@ public class Main {
             System.out.println(outlay[index] + " ");
         }
         int sum = 0;
-        for (int element: outlay) {
+        for (int element : outlay) {
             sum += element;
         }
         System.out.println();
